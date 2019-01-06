@@ -1,6 +1,6 @@
 # MatLab - Primitive Object Detection
 
-This small project detects the circular and rectangular objects in the given image.
+This small project detects the circular and ellipse objects in the given image.
 
 ## Example
 
